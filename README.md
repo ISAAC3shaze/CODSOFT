@@ -57,7 +57,7 @@ To run the program:
    ```bash
    javac ATMINTERFACE.java
 
-### Usage:
+## Usage:
 To run the program, compile `Numbergame.java` and execute the compiled class:
 ```bash
 javac Numbergame.java
