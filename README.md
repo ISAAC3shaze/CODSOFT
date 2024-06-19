@@ -2,19 +2,8 @@
 
 This repository contains three Java projects that demonstrate different aspects of programming and application development.
 
-## 1. Number Game
 
-### Description:
-This Java program is a simple number guessing game where the user attempts to guess a randomly generated number between 1 and 100 within a limited number of attempts.
-
-### Features:
-- Uses `java.util.Random` for generating random numbers.
-- Accepts user input using `java.util.Scanner`.
-- Tracks total score based on the number of attempts taken to guess correctly.
-- Offers the option to play again after each round.
-
-
-# Student Grade Calculator
+# 1. Student Grade Calculator
 
 This Java project calculates the average percentage and assigns a grade based on marks obtained in a specified number of subjects.
 
@@ -35,7 +24,7 @@ The Student Grade Calculator program allows users to input marks for a set numbe
    ```bash
    javac StudentGrades.java
 
-# ATM Interface
+# 2. ATM Interface
 
 This Java project simulates an ATM interface where users can perform basic banking operations such as checking balance, depositing money, and withdrawing money.
 
@@ -57,7 +46,21 @@ To run the program:
    ```bash
    javac ATMINTERFACE.java
 
-## Usage:
+
+
+# 3. Number Game
+
+### Description:
+This Java program is a simple number guessing game where the user attempts to guess a randomly generated number between 1 and 100 within a limited number of attempts.
+
+### Features:
+- Uses `java.util.Random` for generating random numbers.
+- Accepts user input using `java.util.Scanner`.
+- Tracks total score based on the number of attempts taken to guess correctly.
+- Offers the option to play again after each round.
+-
+  
+  ## Usage:
 To run the program, compile `Numbergame.java` and execute the compiled class:
 ```bash
 javac Numbergame.java
